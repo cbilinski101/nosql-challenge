@@ -14,6 +14,7 @@ This project includes starter notebooks for working with NoSQL databases, specif
 
 - **NoSQL_analysis_starter.ipynb**: A Jupyter Notebook designed to help you analyze data stored in NoSQL databases. It provides an outline and examples for querying and interpreting data.
 - **NoSQL_setup_starter.ipynb**: A Jupyter Notebook aimed at guiding the setup process for NoSQL databases. It includes code snippets and instructions for creating and managing collections, documents, and other NoSQL features.
+- **Resources: establishments.json**: Data file for database population
 
 ## Features
 
