@@ -7,14 +7,22 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![Jupyter](https://img.shields.io/badge/Powered_by-Jupyter-orange?style=flat&logo=jupyter)
 
+## Overview
+This challenge involves setting up and analyzing a NoSQL database to help the editors of the food magazine *Eat Safe, Love* evaluate food hygiene ratings across the United Kingdom. The insights gained will assist their journalists and critics in planning future articles.
 
 This project includes starter notebooks for working with NoSQL databases, specifically aimed at analyzing and setting up NoSQL databases for various use cases.
+
+## Insights
+
+### What are the top 5 establishments with a `RatingValue` rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+
+### How many establishments in each Local Authority area have a hygiene score of 0?
+
 
 ## Project Files
 
 - **NoSQL_analysis_starter.ipynb**: A Jupyter Notebook designed to help you analyze data stored in NoSQL databases. It provides an outline and examples for querying and interpreting data.
 - **NoSQL_setup_starter.ipynb**: A Jupyter Notebook aimed at guiding the setup process for NoSQL databases. It includes code snippets and instructions for creating and managing collections, documents, and other NoSQL features.
-- **Resources: establishments.json**: Data file for database population
 
 ## Features
 
