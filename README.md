@@ -14,9 +14,15 @@ This project includes starter notebooks for working with NoSQL databases, specif
 
 ## Insights
 
-### What are the top 5 establishments with a `RatingValue` rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+**What are the top 5 establishments with a `RatingValue` rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?**
 
-### How many establishments in each Local Authority area have a hygiene score of 0?
+![image](https://github.com/user-attachments/assets/49b9af8d-0868-426e-9616-8ad2ba6af3f7)
+![image](https://github.com/user-attachments/assets/cdced341-cfe4-4179-ba04-1d878e011fac)
+
+**How many establishments in each Local Authority area have a hygiene score of 0?**
+
+![image](https://github.com/user-attachments/assets/c0d65e65-0cd2-4361-b30e-602bd17d4957)
+![image](https://github.com/user-attachments/assets/3aa05769-5599-412b-9d13-2058828a8f9a)
 
 
 ## Project Files
