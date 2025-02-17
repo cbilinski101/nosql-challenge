@@ -1,11 +1,11 @@
 # NoSQL Analysis Project
 
 [![MongoDB](https://img.shields.io/badge/Powered_by-MongoClient-green?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-library-yellow)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Library-yellow)](https://pandas.pydata.org/)
 [![JSON](https://img.shields.io/badge/Powered_by-JSON-lightgrey?style=flat&logo=json)](https://www.json.org/json-en.html)
 [![VSCode](https://img.shields.io/badge/Developed_with-VSCode-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
 ## Overview
 This challenge involves setting up and analyzing a NoSQL database to help the editors of the food magazine *Eat Safe, Love* evaluate food hygiene ratings across the United Kingdom. The insights gained will assist their journalists and critics in planning future articles.
