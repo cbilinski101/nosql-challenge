@@ -1,11 +1,11 @@
 # NoSQL Analysis Project
 
-![MongoDB](https://img.shields.io/badge/Powered_by-MongoClient-green?style=flat&logo=mongodb)
-![Pandas](https://img.shields.io/badge/Powered_by-pandas-blue?style=flat&logo=pandas)
-![JSON](https://img.shields.io/badge/Powered_by-JSON-lightgrey?style=flat&logo=json)
+[![MongoDB](https://img.shields.io/badge/Powered_by-MongoClient-green?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-library-yellow)](https://pandas.pydata.org/)
+[![JSON](https://img.shields.io/badge/Powered_by-JSON-lightgrey?style=flat&logo=json)](https://www.json.org/json-en.html)
 ![VSCode](https://img.shields.io/badge/Developed_with-VSCode-blue?style=flat&logo=visualstudiocode)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
-![Jupyter](https://img.shields.io/badge/Powered_by-Jupyter-orange?style=flat&logo=jupyter)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
 
 ## Overview
 This challenge involves setting up and analyzing a NoSQL database to help the editors of the food magazine *Eat Safe, Love* evaluate food hygiene ratings across the United Kingdom. The insights gained will assist their journalists and critics in planning future articles.
